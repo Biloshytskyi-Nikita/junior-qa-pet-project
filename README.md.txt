@@ -1,11 +1,11 @@
 # Junior QA Pet Project
 
-## 📌 Project Goal
+## Project Goal
 This project demonstrates my practical skills as a Junior QA Engineer, focusing on manual testing of a web application, API testing, and analysis of client-server interactions.
 
 ---
 
-## 🧪 Application Under Test
+## Application Under Test
 OrangeHRM Demo
 
 Tested modules:
@@ -18,19 +18,19 @@ Tested modules:
 
 ---
 
-## 🔍 What I Did in This Project
+## What I Did in This Project
 
-### ✔️ Manual Testing
+### Manual Testing
 - Created test cases covering positive, negative, and edge scenarios
 - Tested login validation, navigation, and employee search functionality
 
-### ✔️ Bug Reporting
+### Bug Reporting
 - Identified and documented bugs with:
   - clear steps to reproduce
   - expected vs actual results
   - severity and priority
 
-### ✔️ DevTools Analysis
+### DevTools Analysis
 - Analyzed login request using Chrome DevTools
 - Identified:
   - POST request to `/auth/validate`
@@ -38,7 +38,7 @@ Tested modules:
   - Session cookie creation
   - CSRF token usage
 
-### ✔️ API Testing (Postman)
+### API Testing (Postman)
 - Tested REST API using JSONPlaceholder
 - Verified:
   - GET and POST requests
@@ -47,7 +47,7 @@ Tested modules:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - Chrome DevTools
 - Postman
 - Git & GitHub
@@ -57,7 +57,7 @@ Tested modules:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 - `docs/` — requirements, test plan, checklist
 - `test-cases/` — detailed test cases
 - `bug-reports/` — bug documentation
@@ -67,7 +67,7 @@ Tested modules:
 
 ---
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 - Test case design
 - Bug reporting
 - API testing
@@ -76,5 +76,5 @@ Tested modules:
 
 ---
 
-## 🚀 Result
+## Result
 This project reflects my ability to perform structured manual testing and work with essential QA tools required for a Junior QA Engineer role.
